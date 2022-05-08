@@ -1,0 +1,7 @@
+﻿  CSnakeGame.cpp
+C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\PrakPBO10_Compositition_CSnake\CSnakeGame.cpp(8,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\PrakPBO10_Compositition_CSnake\CSnakeGame.cpp(8,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\PrakPBO10_Compositition_CSnake\CSnakeGame.cpp(279,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\PrakPBO10_Compositition_CSnake\CSnakeGame.cpp(299,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\PrakPBO10_Compositition_CSnake\CSnakeGame.cpp(442,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrakPBO10_Compositition_CSnake.vcxproj -> C:\Users\Asus\source\repos\PrakPBO10_Compositition_CSnake\Debug\PrakPBO10_Compositition_CSnake.exe
